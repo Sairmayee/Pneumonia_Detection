@@ -14,10 +14,13 @@ Capstone project for PGP in Artificial Intelligence and Machine Learning.
 
 ## Final Selected Model
 
-EfficientNetB0
+ResNet50
+- Due to GitHub file size limitations, trained model artifacts are stored separately from the repository. The final selected model is ResNet50 (resnet50_final.keras).
 
 ## Deployment
 
 - Gradio
 - Docker
 - GitHub Codespaces
+
+
