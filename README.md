@@ -14,9 +14,9 @@ Capstone project for PGP in Artificial Intelligence and Machine Learning.
 
 ## Final Selected Model
 
-ResNet50
-- Due to GitHub file size limitations, trained model artifacts are stored separately from the repository. The final selected model is ResNet50 (resnet50_final.keras).
-- EfficientNet retained as an experimental/evaluated model artifact
+Based on the final experimental evaluation, **EfficientNetB0** achieved the best overall performance and was selected as the final model for deployment.
+
+Other transfer learning architectures were retained as evaluated benchmark models for comparison.
 
 ## Deployment
 
